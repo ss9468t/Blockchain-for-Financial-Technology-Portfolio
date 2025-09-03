@@ -60,6 +60,3 @@ The project aims to explore and demonstrate how blockchain mechanisms address th
 - Explore **real-world applications** such as healthcare, supply chain, and digital identity.  
 
 ---
-
-## Project Structure
-
